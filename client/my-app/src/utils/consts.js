@@ -1,0 +1,9 @@
+export const adminRoute = '/admin'
+export const loginRoute = '/login'
+export const registrationRoute = '/registration'
+export const shopRoute = '/'
+export const basketRoute = '/basket'
+export const deviceRoute = '/device'
+export const ORDERS_ROUTE = '/orders';
+export const DEVICE_EDIT_ROUTE = '/device/edit';
+export const ORDERING_ROUTE = '/checkout';
